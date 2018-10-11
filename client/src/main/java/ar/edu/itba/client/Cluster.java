@@ -1,13 +1,5 @@
 package ar.edu.itba.client;
 
-//public class Client {
-//    private static Logger logger = LoggerFactory.getLogger(Client.class);
-//
-//    public static void main(String[] args) {
-//        logger.info("pod Client Starting ...");
-//    }
-//}
-
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 
